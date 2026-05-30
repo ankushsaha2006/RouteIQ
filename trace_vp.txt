@@ -1,0 +1,721 @@
+﻿======== Resolving module 'react' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/src/pages/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/src/node_modules' does not exist, skipping all lookups in it.
+Found 'package.json' at 'D:/RouteIQ/node_modules/react/package.json'.
+File 'D:/RouteIQ/node_modules/react.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' does not have a 'types' field.
+'package.json' has 'main' field 'index.js' that references 'D:/RouteIQ/node_modules/react/index.js'.
+File name 'D:/RouteIQ/node_modules/react/index.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react/index.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.d.ts' does not exist.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react/index.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react/index.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react/index.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.d.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.js.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.js.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.js.d.ts' does not exist.
+Directory 'D:/RouteIQ/node_modules/react/index.js' does not exist, skipping all lookups in it.
+File 'D:/RouteIQ/node_modules/react/index.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react/index.d.ts' does not exist.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/react/package.json'.
+File 'D:/RouteIQ/node_modules/@types/react.d.ts' does not exist.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typesVersions' entry that matches version '5.9'.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/react/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/react/index.d.ts' exists - use it as a name resolution result.
+'package.json' has a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react', result 'D:/RouteIQ/node_modules/@types/react'.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react/index.d.ts', result 'D:/RouteIQ/node_modules/@types/react/index.d.ts'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module '../components/ui/Card' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Card', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/Card.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/Card.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/Card' was successfully resolved to 'D:/RouteIQ/src/components/ui/Card.tsx'. ========
+======== Resolving module '../components/ui/Button' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Button', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/Button.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/Button.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/Button' was successfully resolved to 'D:/RouteIQ/src/components/ui/Button.tsx'. ========
+======== Resolving module '../components/ui/Badge' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Badge', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/Badge.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/Badge.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/Badge' was successfully resolved to 'D:/RouteIQ/src/components/ui/Badge.tsx'. ========
+======== Resolving module '../components/ui/DataTable' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/DataTable', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/DataTable.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/DataTable.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/DataTable' was successfully resolved to 'D:/RouteIQ/src/components/ui/DataTable.tsx'. ========
+======== Resolving module '../components/ui/Select' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Select', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/Select.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/Select.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/Select' was successfully resolved to 'D:/RouteIQ/src/components/ui/Select.tsx'. ========
+======== Resolving module '../components/ui/input' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/input', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/input.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/input.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/input' was successfully resolved to 'D:/RouteIQ/src/components/ui/input.tsx'. ========
+======== Resolving module 'lucide-react' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'lucide-react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/src/pages/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/src/node_modules' does not exist, skipping all lookups in it.
+Found 'package.json' at 'D:/RouteIQ/node_modules/lucide-react/package.json'.
+File 'D:/RouteIQ/node_modules/lucide-react.ts' does not exist.
+File 'D:/RouteIQ/node_modules/lucide-react.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/lucide-react.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' has 'typings' field 'dist/lucide-react.d.ts' that references 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts'.
+File 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts' exists - use it as a name resolution result.
+'package.json' has a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/lucide-react', result 'D:/RouteIQ/node_modules/lucide-react'.
+File 'D:/RouteIQ/node_modules/react/package.json' exists according to earlier cached lookups.
+Found peerDependency 'react' with '18.3.1' version.
+Resolving real path for 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts', result 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts'.
+======== Module name 'lucide-react' was successfully resolved to 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts' with Package ID 'lucide-react/dist/lucide-react.d.ts@1.17.0+react@18.3.1'. ========
+======== Resolving module '../store/fleetStore' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/store/fleetStore', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/store/fleetStore.ts' exists - use it as a name resolution result.
+======== Module name '../store/fleetStore' was successfully resolved to 'D:/RouteIQ/src/store/fleetStore.ts'. ========
+======== Resolving module '../types' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/types', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/types.ts' does not exist.
+File 'D:/RouteIQ/src/types.tsx' does not exist.
+File 'D:/RouteIQ/src/types.d.ts' does not exist.
+File 'D:/RouteIQ/src/types/package.json' does not exist.
+File 'D:/RouteIQ/src/types/index.ts' exists - use it as a name resolution result.
+======== Module name '../types' was successfully resolved to 'D:/RouteIQ/src/types/index.ts'. ========
+======== Resolving module '../components/ui/EmptyState' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/EmptyState', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/EmptyState.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/EmptyState.tsx' exists - use it as a name resolution result.
+======== Module name '../components/ui/EmptyState' was successfully resolved to 'D:/RouteIQ/src/components/ui/EmptyState.tsx'. ========
+======== Resolving module '../components/ui/Modal' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Modal', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/components/ui/Modal.ts' does not exist.
+File 'D:/RouteIQ/src/components/ui/Modal.tsx' does not exist.
+File 'D:/RouteIQ/src/components/ui/Modal.d.ts' does not exist.
+Directory 'D:/RouteIQ/src/components/ui/Modal' does not exist, skipping all lookups in it.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/components/ui/Modal', target file types: JavaScript.
+File 'D:/RouteIQ/src/components/ui/Modal.js' does not exist.
+File 'D:/RouteIQ/src/components/ui/Modal.jsx' does not exist.
+Directory 'D:/RouteIQ/src/components/ui/Modal' does not exist, skipping all lookups in it.
+======== Module name '../components/ui/Modal' was not resolved. ========
+======== Resolving module '../store/uiStore' from 'D:/RouteIQ/src/pages/VehiclesPage.tsx'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/src/store/uiStore', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/src/store/uiStore.ts' exists - use it as a name resolution result.
+======== Module name '../store/uiStore' was successfully resolved to 'D:/RouteIQ/src/store/uiStore.ts'. ========
+File 'D:/RouteIQ/node_modules/@types/react/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/@types/react/package.json' exists according to earlier cached lookups.
+======== Resolving module 'csstype' from 'D:/RouteIQ/node_modules/@types/react/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'csstype' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+Found 'package.json' at 'D:/RouteIQ/node_modules/csstype/package.json'.
+File 'D:/RouteIQ/node_modules/csstype.ts' does not exist.
+File 'D:/RouteIQ/node_modules/csstype.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/csstype.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/csstype/index.d.ts'.
+File 'D:/RouteIQ/node_modules/csstype/index.d.ts' exists - use it as a name resolution result.
+'package.json' does not have a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/csstype/index.d.ts', result 'D:/RouteIQ/node_modules/csstype/index.d.ts'.
+======== Module name 'csstype' was successfully resolved to 'D:/RouteIQ/node_modules/csstype/index.d.ts' with Package ID 'csstype/index.d.ts@3.2.3'. ========
+======== Resolving module 'prop-types' from 'D:/RouteIQ/node_modules/@types/react/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'prop-types' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File 'D:/RouteIQ/node_modules/prop-types.ts' does not exist.
+File 'D:/RouteIQ/node_modules/prop-types.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/prop-types.d.ts' does not exist.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/prop-types/package.json'.
+File 'D:/RouteIQ/node_modules/@types/prop-types.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts' exists - use it as a name resolution result.
+'package.json' has a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/prop-types', result 'D:/RouteIQ/node_modules/@types/prop-types'.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts', result 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts'.
+======== Module name 'prop-types' was successfully resolved to 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts' with Package ID '@types/prop-types/index.d.ts@15.7.15'. ========
+File 'D:/RouteIQ/node_modules/csstype/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/@types/prop-types/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/lucide-react/dist/package.json' does not exist.
+File 'D:/RouteIQ/node_modules/lucide-react/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/lucide-react/dist/lucide-react.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/lucide-react/dist/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/lucide-react/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving type reference directive 'history', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/history/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/history/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/history/index.d.ts' exists - use it as a name resolution result.
+'package.json' does not have a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/history/index.d.ts', result 'D:/RouteIQ/node_modules/@types/history/index.d.ts'.
+======== Type reference directive 'history' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11', primary: true. ========
+======== Resolving type reference directive 'prop-types', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+File 'D:/RouteIQ/node_modules/@types/prop-types/package.json' exists according to earlier cached lookups.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts' exists - use it as a name resolution result.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts', result 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts'.
+======== Type reference directive 'prop-types' was successfully resolved to 'D:/RouteIQ/node_modules/@types/prop-types/index.d.ts' with Package ID '@types/prop-types/index.d.ts@15.7.15', primary: true. ========
+======== Resolving type reference directive 'react', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+File 'D:/RouteIQ/node_modules/@types/react/package.json' exists according to earlier cached lookups.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/react/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/react/index.d.ts' exists - use it as a name resolution result.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react/index.d.ts', result 'D:/RouteIQ/node_modules/@types/react/index.d.ts'.
+======== Type reference directive 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29', primary: true. ========
+======== Resolving type reference directive 'react-dom', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/react-dom/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts' exists - use it as a name resolution result.
+'package.json' has a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react-dom', result 'D:/RouteIQ/node_modules/@types/react-dom'.
+File 'D:/RouteIQ/node_modules/@types/react/package.json' exists according to earlier cached lookups.
+Found peerDependency '@types/react' with '18.3.29' version.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts', result 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts'.
+======== Type reference directive 'react-dom' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts' with Package ID '@types/react-dom/index.d.ts@18.3.7+@types/react@18.3.29', primary: true. ========
+======== Resolving type reference directive 'react-router', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/react-router/package.json'.
+'package.json' has a 'typesVersions' field with version-specific path mappings.
+'package.json' does not have a 'typesVersions' entry that matches version '5.9'.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts' exists - use it as a name resolution result.
+'package.json' does not have a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts', result 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts'.
+======== Type reference directive 'react-router' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts' with Package ID '@types/react-router/index.d.ts@5.1.20', primary: true. ========
+======== Resolving type reference directive 'react-router-dom', containing file 'D:/RouteIQ/__inferred type names__.ts', root directory 'D:/RouteIQ/node_modules/@types,D:/node_modules/@types'. ========
+Resolving with primary search path 'D:/RouteIQ/node_modules/@types, D:/node_modules/@types'.
+Found 'package.json' at 'D:/RouteIQ/node_modules/@types/react-router-dom/package.json'.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts' exists - use it as a name resolution result.
+'package.json' does not have a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts', result 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts'.
+======== Type reference directive 'react-router-dom' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts' with Package ID '@types/react-router-dom/index.d.ts@5.3.3', primary: true. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './createBrowserHistory' from 'D:/RouteIQ/node_modules/@types/history/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './createBrowserHistory' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.d.ts' with Package ID '@types/history/createBrowserHistory.d.ts@4.7.11'. ========
+======== Resolving module './createHashHistory' from 'D:/RouteIQ/node_modules/@types/history/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/createHashHistory', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/createHashHistory.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createHashHistory.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createHashHistory.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './createHashHistory' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/createHashHistory.d.ts' with Package ID '@types/history/createHashHistory.d.ts@4.7.11'. ========
+======== Resolving module './createMemoryHistory' from 'D:/RouteIQ/node_modules/@types/history/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './createMemoryHistory' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.d.ts' with Package ID '@types/history/createMemoryHistory.d.ts@4.7.11'. ========
+======== Resolving module './LocationUtils' from 'D:/RouteIQ/node_modules/@types/history/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/LocationUtils', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/LocationUtils.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/LocationUtils.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/LocationUtils.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './LocationUtils' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/LocationUtils.d.ts' with Package ID '@types/history/LocationUtils.d.ts@4.7.11'. ========
+======== Resolving module './PathUtils' from 'D:/RouteIQ/node_modules/@types/history/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/PathUtils', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/PathUtils.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/PathUtils.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/PathUtils.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './PathUtils' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/PathUtils.d.ts' with Package ID '@types/history/PathUtils.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './index' from 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/index', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/index.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/index.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/index.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './index' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+======== Resolving module './DOMUtils' from 'D:/RouteIQ/node_modules/@types/history/createBrowserHistory.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/@types/history/DOMUtils', target file types: TypeScript, Declaration.
+File 'D:/RouteIQ/node_modules/@types/history/DOMUtils.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/DOMUtils.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/DOMUtils.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Module name './DOMUtils' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/DOMUtils.d.ts' with Package ID '@types/history/DOMUtils.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './index' from 'D:/RouteIQ/node_modules/@types/history/createHashHistory.d.ts'. ========
+Resolution for module './index' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './index' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+======== Resolving module './DOMUtils' from 'D:/RouteIQ/node_modules/@types/history/createHashHistory.d.ts'. ========
+Resolution for module './DOMUtils' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './DOMUtils' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/DOMUtils.d.ts' with Package ID '@types/history/DOMUtils.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './index' from 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.d.ts'. ========
+Resolution for module './index' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './index' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+======== Resolving module './DOMUtils' from 'D:/RouteIQ/node_modules/@types/history/createMemoryHistory.d.ts'. ========
+Resolution for module './DOMUtils' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './DOMUtils' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/DOMUtils.d.ts' with Package ID '@types/history/DOMUtils.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './index' from 'D:/RouteIQ/node_modules/@types/history/LocationUtils.d.ts'. ========
+Resolution for module './index' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './index' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+======== Resolving module './index' from 'D:/RouteIQ/node_modules/@types/history/PathUtils.d.ts'. ========
+Resolution for module './index' was found in cache from location 'D:/RouteIQ/node_modules/@types/history'.
+======== Module name './index' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/react-dom/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/@types/react-dom/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-dom/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+File 'D:/RouteIQ/node_modules/@types/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-router/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ/node_modules/@types'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module 'history' from 'D:/RouteIQ/node_modules/@types/react-router/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'history' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-router/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+File 'D:/RouteIQ/node_modules/history.ts' does not exist.
+File 'D:/RouteIQ/node_modules/history.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/history.d.ts' does not exist.
+File 'D:/RouteIQ/node_modules/@types/history/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/@types/history.d.ts' does not exist.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'index.d.ts' that references 'D:/RouteIQ/node_modules/@types/history/index.d.ts'.
+File 'D:/RouteIQ/node_modules/@types/history/index.d.ts' exists - use it as a name resolution result.
+Resolving real path for 'D:/RouteIQ/node_modules/@types/history/index.d.ts', result 'D:/RouteIQ/node_modules/@types/history/index.d.ts'.
+======== Module name 'history' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/@types/react-router-dom/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react-router' from 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react-router' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-router-dom/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/@types/node_modules' does not exist, skipping all lookups in it.
+Found 'package.json' at 'D:/RouteIQ/node_modules/react-router/package.json'.
+File 'D:/RouteIQ/node_modules/react-router.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field './dist/development/index.d.ts' that references 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts' exists - use it as a name resolution result.
+'package.json' has a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/react-router', result 'D:/RouteIQ/node_modules/react-router'.
+File 'D:/RouteIQ/node_modules/react/package.json' exists according to earlier cached lookups.
+Found peerDependency 'react' with '18.3.1' version.
+Found 'package.json' at 'D:/RouteIQ/node_modules/react-dom/package.json'.
+Found peerDependency 'react-dom' with '18.3.1' version.
+Resolving real path for 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts', result 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'.
+======== Module name 'react-router' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts' with Package ID 'react-router/dist/development/index.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-router-dom/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ/node_modules/@types'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module 'history' from 'D:/RouteIQ/node_modules/@types/react-router-dom/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'history' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/@types/react-router-dom/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'history' was found in cache from location 'D:/RouteIQ/node_modules/@types'.
+======== Module name 'history' was successfully resolved to 'D:/RouteIQ/node_modules/@types/history/index.d.ts' with Package ID '@types/history/index.d.ts@4.7.11'. ========
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module './data-D4xhSy90.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Module name './data-D4xhSy90.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' with Package ID 'react-router/dist/development/data-D4xhSy90.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module './instrumentation-1q4YhLGP.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Module name './instrumentation-1q4YhLGP.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts' with Package ID 'react-router/dist/development/instrumentation-1q4YhLGP.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module './index-react-server-client-BLiUx67a.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Module name './index-react-server-client-BLiUx67a.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts' with Package ID 'react-router/dist/development/index-react-server-client-BLiUx67a.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'react' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/react-router/dist/development/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/react-router/dist/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/react-router/node_modules' does not exist, skipping all lookups in it.
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module './register-CNAx3TXj.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Module name './register-CNAx3TXj.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.d.ts' with Package ID 'react-router/dist/development/register-CNAx3TXj.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module 'cookie' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module 'cookie' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Directory 'D:/RouteIQ/node_modules/react-router/dist/development/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/react-router/dist/node_modules' does not exist, skipping all lookups in it.
+Directory 'D:/RouteIQ/node_modules/react-router/node_modules' does not exist, skipping all lookups in it.
+Found 'package.json' at 'D:/RouteIQ/node_modules/cookie/package.json'.
+File 'D:/RouteIQ/node_modules/cookie.ts' does not exist.
+File 'D:/RouteIQ/node_modules/cookie.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/cookie.d.ts' does not exist.
+'package.json' does not have a 'typesVersions' field.
+'package.json' does not have a 'typings' field.
+'package.json' has 'types' field 'dist/index.d.ts' that references 'D:/RouteIQ/node_modules/cookie/dist/index.d.ts'.
+File 'D:/RouteIQ/node_modules/cookie/dist/index.d.ts' exists - use it as a name resolution result.
+'package.json' does not have a 'peerDependencies' field.
+Resolving real path for 'D:/RouteIQ/node_modules/cookie/dist/index.d.ts', result 'D:/RouteIQ/node_modules/cookie/dist/index.d.ts'.
+======== Module name 'cookie' was successfully resolved to 'D:/RouteIQ/node_modules/cookie/dist/index.d.ts' with Package ID 'cookie/dist/index.d.ts@1.1.1'. ========
+======== Resolving module './browser-D3uq9sI1.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index.d.ts'. ========
+Module resolution kind is not specified, using 'Node10'.
+Loading module as file / folder, candidate module location 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.js', target file types: TypeScript, Declaration.
+File name 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.js' has a '.js' extension - stripping it.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.ts' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.tsx' does not exist.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.d.ts' exists - use it as a name resolution result.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Module name './browser-D3uq9sI1.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.d.ts' with Package ID 'react-router/dist/development/browser-D3uq9sI1.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts'. ========
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module './data-D4xhSy90.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts'. ========
+Resolution for module './data-D4xhSy90.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './data-D4xhSy90.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' with Package ID 'react-router/dist/development/data-D4xhSy90.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module './instrumentation-1q4YhLGP.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts'. ========
+Resolution for module './instrumentation-1q4YhLGP.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './instrumentation-1q4YhLGP.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts' with Package ID 'react-router/dist/development/instrumentation-1q4YhLGP.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts'. ========
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module './data-D4xhSy90.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts'. ========
+Resolution for module './data-D4xhSy90.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './data-D4xhSy90.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' with Package ID 'react-router/dist/development/data-D4xhSy90.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module './data-D4xhSy90.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/register-CNAx3TXj.d.ts'. ========
+Resolution for module './data-D4xhSy90.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './data-D4xhSy90.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' with Package ID 'react-router/dist/development/data-D4xhSy90.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+File 'D:/RouteIQ/node_modules/cookie/dist/package.json' does not exist.
+File 'D:/RouteIQ/node_modules/cookie/package.json' exists according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/development/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/dist/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/react-router/package.json' exists according to earlier cached lookups.
+======== Resolving module 'react' from 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.d.ts'. ========
+Resolution for module 'react' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name 'react' was successfully resolved to 'D:/RouteIQ/node_modules/@types/react/index.d.ts' with Package ID '@types/react/index.d.ts@18.3.29'. ========
+======== Resolving module './instrumentation-1q4YhLGP.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.d.ts'. ========
+Resolution for module './instrumentation-1q4YhLGP.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './instrumentation-1q4YhLGP.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts' with Package ID 'react-router/dist/development/instrumentation-1q4YhLGP.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+======== Resolving module './data-D4xhSy90.js' from 'D:/RouteIQ/node_modules/react-router/dist/development/browser-D3uq9sI1.d.ts'. ========
+Resolution for module './data-D4xhSy90.js' was found in cache from location 'D:/RouteIQ/node_modules/react-router/dist/development'.
+======== Module name './data-D4xhSy90.js' was successfully resolved to 'D:/RouteIQ/node_modules/react-router/dist/development/data-D4xhSy90.d.ts' with Package ID 'react-router/dist/development/data-D4xhSy90.d.ts@7.16.0+react@18.3.1+react-dom@18.3.1'. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist.
+Found 'package.json' at 'D:/RouteIQ/node_modules/typescript/package.json'.
+======== Resolving module '@typescript/lib-es5' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.es5.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-es5' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-es5'
+File 'D:/RouteIQ/node_modules/@types/typescript__lib-es5.d.ts' does not exist.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-es5'
+Loading module '@typescript/lib-es5' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-es5' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+======== Resolving module '@typescript/lib-decorators' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.decorators.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-decorators' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-decorators'
+File 'D:/RouteIQ/node_modules/@types/typescript__lib-decorators.d.ts' does not exist.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-decorators'
+Loading module '@typescript/lib-decorators' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-decorators' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+======== Resolving module '@typescript/lib-decorators/legacy' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.decorators.legacy.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-decorators/legacy' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-decorators/legacy'
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-decorators/legacy'
+Loading module '@typescript/lib-decorators/legacy' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-decorators/legacy' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+======== Resolving module '@typescript/lib-dom' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.dom.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-dom' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-dom'
+File 'D:/RouteIQ/node_modules/@types/typescript__lib-dom.d.ts' does not exist.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-dom'
+Loading module '@typescript/lib-dom' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-dom' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+======== Resolving module '@typescript/lib-webworker/importscripts' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.webworker.importscripts.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-webworker/importscripts' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-webworker/importscripts'
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-webworker/importscripts'
+Loading module '@typescript/lib-webworker/importscripts' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-webworker/importscripts' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+======== Resolving module '@typescript/lib-scripthost' from 'D:/RouteIQ/__lib_node_modules_lookup_lib.scripthost.d.ts__.ts'. ========
+Explicitly specified module resolution kind: 'Node10'.
+Loading module '@typescript/lib-scripthost' from 'node_modules' folder, target file types: TypeScript, Declaration.
+Searching all ancestor node_modules directories for preferred extensions: TypeScript, Declaration.
+Scoped package detected, looking in 'typescript__lib-scripthost'
+File 'D:/RouteIQ/node_modules/@types/typescript__lib-scripthost.d.ts' does not exist.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+Scoped package detected, looking in 'typescript__lib-scripthost'
+Loading module '@typescript/lib-scripthost' from 'node_modules' folder, target file types: JavaScript.
+Searching all ancestor node_modules directories for fallback extensions: JavaScript.
+Directory 'D:/node_modules' does not exist, skipping all lookups in it.
+======== Module name '@typescript/lib-scripthost' was not resolved. ========
+File 'D:/RouteIQ/node_modules/typescript/lib/package.json' does not exist according to earlier cached lookups.
+File 'D:/RouteIQ/node_modules/typescript/package.json' exists according to earlier cached lookups.
+error TS2468: Cannot find global value 'Promise'.
+node_modules/@types/prop-types/index.d.ts(16,38): error TS2304: Cannot find name 'Iterable'.
+node_modules/@types/react-router-dom/index.d.ts(13,10): error TS2724: '"react-router"' has no exported member named 'match'. Did you mean 'UIMatch'?
+node_modules/@types/react-router-dom/index.d.ts(19,5): error TS2305: Module '"react-router"' has no exported member 'PromptProps'.
+node_modules/@types/react-router-dom/index.d.ts(20,5): error TS2305: Module '"react-router"' has no exported member 'Prompt'.
+node_modules/@types/react-router-dom/index.d.ts(23,5): error TS2305: Module '"react-router"' has no exported member 'RedirectProps'.
+node_modules/@types/react-router-dom/index.d.ts(24,5): error TS2724: '"react-router"' has no exported member named 'Redirect'. Did you mean 'redirect'?
+node_modules/@types/react-router-dom/index.d.ts(25,5): error TS2305: Module '"react-router"' has no exported member 'RouteChildrenProps'.
+node_modules/@types/react-router-dom/index.d.ts(26,5): error TS2305: Module '"react-router"' has no exported member 'RouteComponentProps'.
+node_modules/@types/react-router-dom/index.d.ts(33,5): error TS2305: Module '"react-router"' has no exported member 'SwitchProps'.
+node_modules/@types/react-router-dom/index.d.ts(34,5): error TS2305: Module '"react-router"' has no exported member 'Switch'.
+node_modules/@types/react-router-dom/index.d.ts(35,5): error TS2724: '"react-router"' has no exported member named 'match'. Did you mean 'UIMatch'?
+node_modules/@types/react-router-dom/index.d.ts(37,5): error TS2305: Module '"react-router"' has no exported member 'withRouter'.
+node_modules/@types/react-router-dom/index.d.ts(38,5): error TS2724: '"react-router"' has no exported member named 'RouterChildContext'. Did you mean 'RouterContext'?
+node_modules/@types/react-router-dom/index.d.ts(39,5): error TS2305: Module '"react-router"' has no exported member 'useHistory'.
+node_modules/@types/react-router-dom/index.d.ts(42,5): error TS2724: '"react-router"' has no exported member named 'useRouteMatch'. Did you mean 'RouteMatch'?
+node_modules/@types/react/index.d.ts(448,26): error TS2304: Cannot find name 'Iterable'.
+node_modules/@types/react/index.d.ts(486,10): error TS2456: Type alias 'ReactNode' circularly references itself.
+node_modules/@types/react/index.d.ts(490,11): error TS2304: Cannot find name 'Iterable'.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(413,5): error TS18028: Private identifiers are only available when targeting ECMAScript 2015 and higher.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(418,24): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1345,6): error TS2456: Type alias 'Serializable' circularly references itself.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1347,44): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1347,78): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,214): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,238): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,282): error TS2304: Cannot find name 'ReadonlyMap'.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,314): error TS2304: Cannot find name 'ReadonlyMap'.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,366): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,381): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,411): error TS2304: Cannot find name 'ReadonlySet'.
+node_modules/react-router/dist/development/data-D4xhSy90.d.ts(1389,434): error TS2304: Cannot find name 'ReadonlySet'.
+node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts(92,81): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts(93,284): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/index-react-server-client-BLiUx67a.d.ts(166,30): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/index.d.ts(8,8): error TS1259: Module '"D:/RouteIQ/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+node_modules/react-router/dist/development/index.d.ts(1447,43): error TS2304: Cannot find name 'Iterable'.
+node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts(220,32): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts(282,15): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+node_modules/react-router/dist/development/instrumentation-1q4YhLGP.d.ts(286,15): error TS2583: Cannot find name 'Map'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+src/pages/VehiclesPage.tsx(2,8): error TS1259: Module '"D:/RouteIQ/node_modules/@types/react/index"' can only be default-imported using the 'esModuleInterop' flag
+src/pages/VehiclesPage.tsx(3,47): error TS6142: Module '../components/ui/Card' was resolved to 'D:/RouteIQ/src/components/ui/Card.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(4,24): error TS6142: Module '../components/ui/Button' was resolved to 'D:/RouteIQ/src/components/ui/Button.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(5,23): error TS6142: Module '../components/ui/Badge' was resolved to 'D:/RouteIQ/src/components/ui/Badge.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(6,27): error TS6142: Module '../components/ui/DataTable' was resolved to 'D:/RouteIQ/src/components/ui/DataTable.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(7,24): error TS6142: Module '../components/ui/Select' was resolved to 'D:/RouteIQ/src/components/ui/Select.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(8,23): error TS6142: Module '../components/ui/input' was resolved to 'D:/RouteIQ/src/components/ui/input.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(10,31): error TS2306: File 'D:/RouteIQ/src/store/fleetStore.ts' is not a module.
+src/pages/VehiclesPage.tsx(12,28): error TS6142: Module '../components/ui/EmptyState' was resolved to 'D:/RouteIQ/src/components/ui/EmptyState.tsx', but '--jsx' is not set.
+src/pages/VehiclesPage.tsx(13,23): error TS2307: Cannot find module '../components/ui/Modal' or its corresponding type declarations.
+src/pages/VehiclesPage.tsx(14,28): error TS2306: File 'D:/RouteIQ/src/store/uiStore.ts' is not a module.
+src/pages/VehiclesPage.tsx(30,22): error TS2705: An async function or method in ES5 requires the 'Promise' constructor.  Make sure you have a declaration for the 'Promise' constructor or include 'ES2015' in your '--lib' option.
+src/pages/VehiclesPage.tsx(52,30): error TS2550: Property 'from' does not exist on type 'ArrayConstructor'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+src/pages/VehiclesPage.tsx(52,39): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+src/pages/VehiclesPage.tsx(67,16): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(69,16): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(71,16): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(73,16): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(82,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(93,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(105,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(113,5): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(114,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(115,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(116,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(117,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(119,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(119,63): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(125,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(126,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(127,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(128,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(129,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(130,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(132,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(133,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(134,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(140,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(141,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(142,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(143,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(144,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(146,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(147,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(148,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(154,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(155,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(156,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(157,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(158,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(160,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(161,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(162,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(168,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(169,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(170,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(171,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(172,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(174,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(175,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(176,17): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(184,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(185,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(186,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(187,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(188,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(195,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(206,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(220,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(221,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(222,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(224,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(226,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(227,15): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(230,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(236,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(246,7): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(252,9): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(253,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(261,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(272,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(281,11): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(282,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
+src/pages/VehiclesPage.tsx(285,13): error TS17004: Cannot use JSX unless the '--jsx' flag is provided.
